@@ -1,0 +1,54 @@
+services:
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    deploy:
+      resources:
+        limits:
+          cpus: "0.5"
+          memory: 1024M
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    command:
+      - --config.file=/etc/prometheus/prometheus.yml
+
+  cadvisor:
+    image: gcr.io/cadvisor/cadvisor:v0.47.1
+    container_name: cadvisor
+    ports:
+      - "8080:8080"
+    deploy:
+      resources:
+        limits:
+          cpus: "3"
+          memory: 1024M
+    volumes:
+      - /:/rootfs:ro
+      - /var/run:/var/run:ro
+      - /sys:/sys:ro
+      - /var/lib/docker/:/var/lib/docker:ro
+
+  monitored-container:
+    image: marcodamo012/stress-tester
+    container_name: nginx-monitored #Todas as operações levam em consideração o container_name, portanto se modificar aqui será necessário modificar as queries tanto no main.go quanto as que irá utilizar no grafana
+    stdin_open: true
+    tty: true
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: 512M
+    ports:
+      - "8081:3000" #O projeto está em desenvolvimento, será disponibilizada uma interface gráfica para enviar os testes, enquanto será possível visualizar em dashboards integrados do grafana... porém sem prazo.
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    depends_on:
+      - prometheus
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin #Depois que acessar o grafana pela primeira vez, é preciso modificar a senha
