@@ -1,0 +1,14 @@
+global:
+  scrape_interval: 5s  # Intervalo de coleta das métricas global
+
+scrape_configs:
+  - job_name: 'cadvisor'  # Nome do job
+    static_configs:
+      - targets: ['cadvisor:8080']  # Endpoint do cAdvisor. Ele coleta as mesmas métricas que podem ser vistas utilizando <seu_ip>:8080/metrics
+    metrics_path: /metrics
+    params:
+      match[]:
+        - 'container_cpu_usage_seconds_total' # Por padrão ele coleta todas as infos do endpoint, porém durante os testes adicionei esses parametros por conta de algumas inconsistências nos dados
+        - 'container_memory_usage_bytes'
+    scrape_interval: 2s # Intervalo de coleta das métricas no cAdvisor
+    scrape_timeout: 1s # Timeout obrigatório, sendo sempre inferior ao scrape_interval
