@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Controlador de Elasticidade
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Marco Antonio
+    family-names: Damo
+    email: marco_damo@hotmail.com
+    affiliation: Student
+    orcid: 'https://orcid.org/0000-0002-1629-9532'
+repository-code: 'https://github.com/marcoodamo/elasticity-controller.git'
+abstract: >-
+  O projeto é relacionado à um controlador de elasticidade
+  para contêineres Docker, utilizando a linguagem de
+  programação Go e as ferramentas Prometheus e Grafana
+keywords:
+  - Docker
+  - Go
+  - Prometheus
+  - Grafana
+license: Unlicense
