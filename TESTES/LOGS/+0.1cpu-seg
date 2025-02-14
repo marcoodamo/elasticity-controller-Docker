@@ -1,0 +1,128 @@
+2025/02/13 19:04:41 =========================================
+2025/02/13 19:04:41 🔽 Reduzindo CPU para 1.00 cores
+2025/02/13 19:04:41 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:04:41 📊 Uso atual - CPU: 0.00%, Memória: 4.28 MB (0.84% do limite)
+2025/02/13 19:04:46 =========================================
+2025/02/13 19:04:46 🔽 Reduzindo CPU para 1.00 cores
+2025/02/13 19:04:46 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:04:46 📊 Uso atual - CPU: 8.66%, Memória: 13.11 MB (2.56% do limite)
+2025/02/13 19:04:51 =========================================
+2025/02/13 19:04:51 🔽 Reduzindo CPU para 1.00 cores
+2025/02/13 19:04:51 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:04:51 📊 Uso atual - CPU: 14.44%, Memória: 12.98 MB (2.54% do limite)
+2025/02/13 19:04:56 =========================================
+2025/02/13 19:04:56 🔽 Reduzindo CPU para 1.00 cores
+2025/02/13 19:04:56 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:04:56 📊 Uso atual - CPU: 27.11%, Memória: 16.10 MB (3.14% do limite)
+2025/02/13 19:05:01 =========================================
+2025/02/13 19:05:01 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:05:01 📊 Uso atual - CPU: 40.85%, Memória: 17.48 MB (3.41% do limite)
+2025/02/13 19:05:06 =========================================
+2025/02/13 19:05:06 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:05:06 📊 Uso atual - CPU: 55.03%, Memória: 19.13 MB (3.74% do limite)
+2025/02/13 19:05:11 =========================================
+2025/02/13 19:05:11 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:05:11 📊 Uso atual - CPU: 54.77%, Memória: 19.01 MB (3.71% do limite)
+2025/02/13 19:05:16 =========================================
+2025/02/13 19:05:16 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:05:16 📊 Uso atual - CPU: 76.47%, Memória: 22.16 MB (4.33% do limite)
+2025/02/13 19:05:21 =========================================
+2025/02/13 19:05:21 🔼 Aumentando CPU para 1.20 cores
+2025/02/13 19:05:21 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:05:21 Novo limite aplicado: CPU = 1.20 cores, Memória = 512.00 MB
+2025/02/13 19:05:21 📊 Uso atual - CPU: 85.30%, Memória: 23.61 MB (4.61% do limite)
+2025/02/13 19:05:26 =========================================
+2025/02/13 19:05:26 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:05:26 📊 Uso atual - CPU: 75.30%, Memória: 23.61 MB (4.61% do limite)
+2025/02/13 19:05:31 =========================================
+2025/02/13 19:05:31 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:05:31 📊 Uso atual - CPU: 71.35%, Memória: 25.14 MB (4.91% do limite)
+2025/02/13 19:05:36 =========================================
+2025/02/13 19:05:36 🔼 Aumentando CPU para 1.44 cores
+2025/02/13 19:05:36 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:05:36 Novo limite aplicado: CPU = 1.44 cores, Memória = 512.00 MB
+2025/02/13 19:05:36 📊 Uso atual - CPU: 91.28%, Memória: 26.68 MB (5.21% do limite)
+2025/02/13 19:05:41 =========================================
+2025/02/13 19:05:41 🔼 Aumentando CPU para 1.73 cores
+2025/02/13 19:05:41 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:05:41 Novo limite aplicado: CPU = 1.73 cores, Memória = 512.00 MB
+2025/02/13 19:05:41 📊 Uso atual - CPU: 81.32%, Memória: 28.20 MB (5.51% do limite)
+2025/02/13 19:05:46 =========================================
+2025/02/13 19:05:46 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:05:46 📊 Uso atual - CPU: 71.59%, Memória: 29.74 MB (5.81% do limite)
+2025/02/13 19:05:51 =========================================
+2025/02/13 19:05:51 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:05:51 📊 Uso atual - CPU: 67.49%, Memória: 31.27 MB (6.11% do limite)
+2025/02/13 19:05:56 =========================================
+2025/02/13 19:05:56 🔼 Aumentando CPU para 2.07 cores
+2025/02/13 19:05:56 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:05:56 Novo limite aplicado: CPU = 2.07 cores, Memória = 512.00 MB
+2025/02/13 19:05:56 📊 Uso atual - CPU: 86.29%, Memória: 32.81 MB (6.41% do limite)
+2025/02/13 19:06:01 =========================================
+2025/02/13 19:06:01 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:06:01 📊 Uso atual - CPU: 71.69%, Memória: 34.35 MB (6.71% do limite)
+2025/02/13 19:06:07 =========================================
+2025/02/13 19:06:07 🔼 Aumentando CPU para 2.49 cores
+2025/02/13 19:06:07 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:06:07 Novo limite aplicado: CPU = 2.49 cores, Memória = 512.00 MB
+2025/02/13 19:06:07 📊 Uso atual - CPU: 93.53%, Memória: 37.52 MB (7.33% do limite)
+2025/02/13 19:06:12 =========================================
+2025/02/13 19:06:12 🔼 Aumentando CPU para 2.99 cores
+2025/02/13 19:06:12 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:06:12 Novo limite aplicado: CPU = 2.99 cores, Memória = 512.00 MB
+2025/02/13 19:06:12 📊 Uso atual - CPU: 88.56%, Memória: 38.98 MB (7.61% do limite)
+2025/02/13 19:06:17 =========================================
+2025/02/13 19:06:17 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:06:17 📊 Uso atual - CPU: 74.27%, Memória: 40.50 MB (7.91% do limite)
+2025/02/13 19:06:22 =========================================
+2025/02/13 19:06:22 🔼 Aumentando CPU para 3.58 cores
+2025/02/13 19:06:22 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:06:22 Novo limite aplicado: CPU = 3.58 cores, Memória = 512.00 MB
+2025/02/13 19:06:22 📊 Uso atual - CPU: 93.23%, Memória: 42.03 MB (8.21% do limite)
+2025/02/13 19:06:27 =========================================
+2025/02/13 19:06:27 🔼 Aumentando CPU para 4.00 cores
+2025/02/13 19:06:27 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:06:27 Novo limite aplicado: CPU = 4.00 cores, Memória = 512.00 MB
+2025/02/13 19:06:27 📊 Uso atual - CPU: 85.46%, Memória: 43.66 MB (8.53% do limite)
+2025/02/13 19:06:32 =========================================
+2025/02/13 19:06:32 🔼 Aumentando CPU para 4.00 cores
+2025/02/13 19:06:32 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:06:32 📊 Uso atual - CPU: 82.81%, Memória: 45.10 MB (8.81% do limite)
+2025/02/13 19:06:37 =========================================
+2025/02/13 19:06:37 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:06:37 📊 Uso atual - CPU: 51.40%, Memória: 4.41 MB (0.86% do limite)
+2025/02/13 19:06:42 =========================================
+2025/02/13 19:06:42 🔽 Reduzindo CPU para 3.20 cores
+2025/02/13 19:06:42 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:06:42 Novo limite aplicado: CPU = 3.20 cores, Memória = 512.00 MB
+2025/02/13 19:06:42 📊 Uso atual - CPU: 28.12%, Memória: 4.41 MB (0.86% do limite)
+2025/02/13 19:06:47 =========================================
+2025/02/13 19:06:47 🔽 Reduzindo CPU para 2.56 cores
+2025/02/13 19:06:47 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:06:48 Novo limite aplicado: CPU = 2.56 cores, Memória = 512.00 MB
+2025/02/13 19:06:48 📊 Uso atual - CPU: 0.00%, Memória: 4.41 MB (0.86% do limite)
+2025/02/13 19:06:53 =========================================
+2025/02/13 19:06:53 🔽 Reduzindo CPU para 2.05 cores
+2025/02/13 19:06:53 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:06:53 Novo limite aplicado: CPU = 2.05 cores, Memória = 512.00 MB
+2025/02/13 19:06:53 📊 Uso atual - CPU: 0.00%, Memória: 4.41 MB (0.86% do limite)
+2025/02/13 19:06:58 =========================================
+2025/02/13 19:06:58 🔽 Reduzindo CPU para 1.64 cores
+2025/02/13 19:06:58 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:06:58 Novo limite aplicado: CPU = 1.64 cores, Memória = 512.00 MB
+2025/02/13 19:06:58 📊 Uso atual - CPU: 0.00%, Memória: 4.41 MB (0.86% do limite)
+2025/02/13 19:07:03 =========================================
+2025/02/13 19:07:03 🔽 Reduzindo CPU para 1.31 cores
+2025/02/13 19:07:03 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:07:03 Novo limite aplicado: CPU = 1.31 cores, Memória = 512.00 MB
+2025/02/13 19:07:03 📊 Uso atual - CPU: 0.00%, Memória: 4.41 MB (0.86% do limite)
+2025/02/13 19:07:08 =========================================
+2025/02/13 19:07:08 🔽 Reduzindo CPU para 1.05 cores
+2025/02/13 19:07:08 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:07:08 Novo limite aplicado: CPU = 1.05 cores, Memória = 512.00 MB
+2025/02/13 19:07:08 📊 Uso atual - CPU: 0.00%, Memória: 4.41 MB (0.86% do limite)
+2025/02/13 19:07:13 =========================================
+2025/02/13 19:07:13 🔽 Reduzindo CPU para 1.00 cores
+2025/02/13 19:07:13 🔽 Reduzindo memória para 512.00 MB
+2025/02/13 19:07:13 Novo limite aplicado: CPU = 1.00 cores, Memória = 512.00 MB
+2025/02/13 19:07:13 📊 Uso atual - CPU: 0.00%, Memória: 4.41 MB (0.86% do limite)
