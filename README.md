@@ -1,5 +1,4 @@
-# elasticity-controller
-Controlador de elasticidade Docker 🐳
+# Controlador de Elasticidade de Contêineres Docker 🐳
 
 ## Objetivo
 
@@ -18,7 +17,9 @@ Esse projeto teve como objetivo o desenvolvimento de um controlador de elasticid
 ### Instalação
 
 Os pré-requisitos são o `Docker` e `Golang`. Clone o repositório:
+
 ```git clone https://github.com/marcoodamo/elasticity-controller-Docker.git```
+
 Inicialize o módulo Go e compile o controlador:
 ```
 go mod init elasticity-controller
@@ -83,5 +84,8 @@ Você consegue citar esse repositório apenas clicando em "Cite this repository"
 [![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-000?style=for-the-badge&logo=cloudflare&logoColor=F38020)](https://www.cloudflare.com/)
 [![cAdvisor](https://img.shields.io/badge/cAdvisor-000?style=for-the-badge&logo=docker&logoColor=00A4A6)](https://github.com/google/cadvisor)
 
-### Conecte-se comigo !
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&multiline=true&repeat=false&width=435&lines=Espero+que+tenha+gostado!;Entre+em+contato%3A)](https://git.io/typing-svg)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-damo/)
+[![Mail](https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=mail.ru&logoColor=3C9B5A)](mailto:marco_damo@hotmail.com)
+
