@@ -13,6 +13,8 @@ Esse projeto teve como objetivo o desenvolvimento de um controlador de elasticid
 - Essas métricas coletadas então são utilizadas para fazer a análise de utilização de CPU e memória do container, para que o controlador decida se será ou não necessário a alocação ou liberação de recursos.
   - O Grafana é utilizado para facilitar a criação de visualizações dinâmicas sobre a saúde do sistema.
 
+![Arquitetura do Projeto](TESTES/Arquitetura_Controlador.png)
+
 ### Instalação
 
 Os pré-requisitos são o `Docker` e `Golang`. Clone o repositório:
