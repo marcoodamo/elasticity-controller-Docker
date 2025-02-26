@@ -19,11 +19,6 @@ services:
     container_name: cadvisor
     ports:
       - "8080:8080"
-    deploy:
-      resources:
-        limits:
-          cpus: "3"
-          memory: 1024M
     volumes:
       - /:/rootfs:ro
       - /var/run:/var/run:ro
