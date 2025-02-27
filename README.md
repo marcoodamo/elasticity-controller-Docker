@@ -19,7 +19,12 @@ Esse projeto teve como objetivo o desenvolvimento de um controlador de elasticid
 Os pré-requisitos são o `Docker`, `Docker Compose` e `Golang`. Clone o repositório logo em seguida:
 
 ```
-sudo apt update && sudo apt install docker.io golang-go
+sudo apt update && sudo apt install docker.io
+
+wget https://go.dev/dl/go1.24.0.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.22.0.linux-amd64.tar.gz
+echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.bashrc
+source ~/.bashrc
 
 sudo curl -L "https://github.com/docker/compose/releases/latest/download/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
