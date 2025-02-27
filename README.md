@@ -54,6 +54,11 @@ Após ter feito o deploy dos serviços, você pode rodar o controlador de elasti
 go run main.go
 ```
 
+Você pode realizar os teste acessando o container e rodando os comandos desejados, lembrando que todos são em python (dê um "ls" para ver as opções):
+```
+docker exec -it nginx-monitored bash
+```
+
 #### Observabilidade
 
 Para validar as métricas de consumo de recursos em tmepo real, você tem três opções:
