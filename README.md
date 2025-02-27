@@ -23,9 +23,9 @@ sudo apt update && sudo apt install docker.io golang-go
 
 sudo curl -L "https://github.com/docker/compose/releases/latest/download/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
-```
 
-```git clone https://github.com/marcoodamo/elasticity-controller-Docker.git```
+git clone https://github.com/marcoodamo/elasticity-controller-Docker.git
+```
 
 Inicialize o módulo Go e compile o controlador:
 ```
